@@ -15,7 +15,7 @@ import (
 
 // all user wr | group wr | other user wr
 const defaultPermission = 0755
-const mediaRelativePath = "media"
+const mediaRelativePath = "./"
 const defaultMarkdownName = "index.md"
 
 type Files struct {
